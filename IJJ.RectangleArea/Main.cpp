@@ -14,7 +14,7 @@ int GetLengthFromUser()
 int GetWidthFromUser()
 {
 	int width;
-	std::cout << "Give length pls: ";
+	std::cout << "Give width pls: ";
 	std::cin >> width;
 	return width;
 }
